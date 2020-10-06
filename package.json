@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-examples",
+  "version": "1.0.0",
+  "description": "RXJS Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mreorhan/RxJS-Examples.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "mreorhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mreorhan/RxJS-Examples/issues"
+  },
+  "homepage": "https://github.com/mreorhan/RxJS-Examples#readme",
+  "dependencies": {
+    "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
